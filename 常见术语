@@ -1,0 +1,2 @@
+1、数据双向绑定
+	数据双向绑定，input是用于用户输入的，数据要从View传输到Controller中，而{{}}和ng-bind是用于从controller中得到数据然后显示在view中；

@@ -1,2 +1,8 @@
 1、数据双向绑定
 	数据双向绑定，input是用于用户输入的，数据要从View传输到Controller中，而{{}}和ng-bind是用于从controller中得到数据然后显示在view中；
+
+
+2、指令
+ ng-app 指令初始化一个 AngularJS 应用程序。
+ ng-init 指令初始化应用程序数据。
+ ng-model 指令把元素值（比如输入域的值绑定到应用程序。
